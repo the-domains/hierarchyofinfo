@@ -4,7 +4,7 @@
         <description><![CDATA[Hierarchy of Info]]></description>
         <link>https://thegrid.ai/hierarchyofinfo/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 24 Feb 2016 01:56:53 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 24 Feb 2016 02:02:01 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/hierarchyofinfo/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Woods]]></title>
@@ -12,6 +12,13 @@
             <link>https://thegrid.ai/hierarchyofinfo/woods/index.html</link>
             <guid isPermaLink="false">078ca8d3-ab94-4717-8333-d86a1d0777b1</guid>
             <pubDate>Thu, 18 Feb 2016 00:28:27 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[This is another logo.]]></title>
+            <description><![CDATA[<article><h1>This is another logo.</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/9f98ad26ca3e5636a0b9fa43d4510612c5483c32.jpg"></article>]]></description>
+            <link>https://thegrid.ai/hierarchyofinfo/this-is-another-logo/index.html</link>
+            <guid isPermaLink="false">0d15f09f-7aba-4f1f-8aa8-a64848961a4a</guid>
+            <pubDate>Wed, 24 Feb 2016 02:00:41 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>

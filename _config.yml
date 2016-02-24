@@ -1,6 +1,6 @@
 name: hierarchyofinfo
 favicon: null
-layout_spectrum: 1
+layout_spectrum: 0.81901
 typography_spectrum: 0.60845
 title: Hierarchy of Info
 cta:
@@ -22,7 +22,7 @@ color:
     - '#000000'
     - '#2660aa'
     - '#fe7e15'
-  brandStrength: 1
+  brandStrength: 0.5
   lightness: 0
   saturation: 0.060554454335942864
   rhythmicContrast: 0.25

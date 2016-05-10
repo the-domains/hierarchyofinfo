@@ -1,29 +1,41 @@
-name: hierarchyofinfo
-favicon: null
-layout_spectrum: 1
-typography_spectrum: 0.60845
 title: Hierarchy of Info
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
+purpose: []
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
 color:
+  saturation: 0.06055445433594286
+  brandStrength: 0.5
+  rhythmicContrast: 0.25
   brandColors:
     - '#ffffff'
     - '#34b6d6'
     - '#000000'
     - '#2660aa'
     - '#fe7e15'
-  brandStrength: 0.5
   lightness: 0
-  saturation: 0.060554454335942864
-  rhythmicContrast: 0.25
-purpose: []
+cta:
+  bucket: null
+  version: null
+  domain: null
+analytics:
+  twitter: null
+  google: null
+  facebook: null
+name: hierarchyofinfo
+favicon: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+typography_spectrum: 0.60845
+layout_spectrum: 0.4551971

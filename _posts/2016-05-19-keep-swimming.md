@@ -1,14 +1,14 @@
 ---
-datePublished: '2016-05-19T01:45:50.776Z'
+datePublished: '2016-08-20T22:02:19.503Z'
 author: []
-dateModified: '2016-05-19T01:45:41.670Z'
+dateModified: '2016-08-20T22:02:19.102Z'
 title: Keep Swimming
 description: ''
-starred: false
 sourcePath: _posts/2016-05-19-keep-swimming.md
-inFeed: true
 hasPage: true
-inNav: false
+publisher: {}
+via: {}
+starred: false
 url: keep-swimming/index.html
 _context: 'http://schema.org'
 _type: Article

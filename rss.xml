@@ -4,7 +4,7 @@
         <description><![CDATA[Hierarchy of Info]]></description>
         <link>https://thegrid.ai/hierarchyofinfo/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 20 Aug 2016 22:02:25 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 20 Aug 2016 22:06:27 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/hierarchyofinfo/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Woods]]></title>
@@ -12,6 +12,13 @@
             <link>https://thegrid.ai/hierarchyofinfo/woods/index.html</link>
             <guid isPermaLink="false">078ca8d3-ab94-4717-8333-d86a1d0777b1</guid>
             <pubDate>Thu, 18 Feb 2016 00:28:27 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/0fb7bbc4-9448-4dbb-a4c6-186a5b21473e.jpg">]]></description>
+            <link>https://thegrid.ai/hierarchyofinfo/0c356acd-54ca-4da3-844a-6985fb11653d/index.html</link>
+            <guid isPermaLink="false">0c356acd-54ca-4da3-844a-6985fb11653d</guid>
+            <pubDate>Sat, 20 Aug 2016 22:06:25 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Kelly Ramm]]></title>
@@ -26,13 +33,6 @@
             <link>https://thegrid.ai/hierarchyofinfo/this-is-another-logo/index.html</link>
             <guid isPermaLink="false">0d15f09f-7aba-4f1f-8aa8-a64848961a4a</guid>
             <pubDate>Wed, 24 Feb 2016 02:00:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/0fb7bbc4-9448-4dbb-a4c6-186a5b21473e.jpg">]]></description>
-            <link>https://thegrid.ai/hierarchyofinfo/0c356acd-54ca-4da3-844a-6985fb11653d/index.html</link>
-            <guid isPermaLink="false">0c356acd-54ca-4da3-844a-6985fb11653d</guid>
-            <pubDate>Wed, 24 Feb 2016 01:55:37 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>

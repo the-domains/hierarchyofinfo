@@ -1,51 +1,41 @@
-typography_spectrum: 0.60845
-color:
-  saturation: 0.06055445433594286
-  brandStrength: 0.5
-  rhythmicContrast: 0.25
-  brandColors:
-    - '#ffffff'
-    - '#34b6d6'
-    - '#000000'
-    - '#2660aa'
-    - '#fe7e15'
-  lightness: 0
-opengraph:
-  image: null
-  type: null
-  appId: null
-layout_spectrum: 0.4551971
-analytics:
-  twitter: null
-  google: null
-  facebook: null
-author:
-  name: Kelly
-name: hierarchyofinfo
-cta:
-  bucket: null
-  version: null
-  domain: null
-navigation:
-  - name: Keep Swimming
-    id: 2a6643e3-b0d3-4cbd-8a13-474b91d7a5ab
-    type: content
-  - name: Madness
-    id: 0c356acd-54ca-4da3-844a-6985fb11653d
-    type: content
-favicon: null
+title: Hierarchy of Info
+purpose: []
 collections:
   - index:
       path: /
       number: 15
       paginate: true
       navigable: true
-    permalink:
-      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
-title: Hierarchy of Info
-description: Nothing of Consequence
-purpose: []
+    permalink:
+      path: '/:title/'
+color:
+  saturation: 0.06055445433594286
+  brandStrength: 0.7222222
+  lightness: 0
+  brandColors:
+    - '#ffffff'
+    - '#34b6d6'
+    - '#000000'
+    - '#2660aa'
+    - '#fe7e15'
+  rhythmicContrast: 0.25
+analytics:
+  twitter: null
+  google: null
+  facebook: null
+favicon: null
+cta:
+  bucket: null
+  version: null
+  domain: null
+name: hierarchyofinfo
+opengraph:
+  image: null
+  type: null
+  appId: null
+typography_spectrum: 0.60845
+layout_spectrum: 0.4551971

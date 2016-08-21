@@ -30,6 +30,9 @@ navigation:
   - name: Keep Swimming
     id: 2a6643e3-b0d3-4cbd-8a13-474b91d7a5ab
     type: content
+  - name: Madness
+    id: 0c356acd-54ca-4da3-844a-6985fb11653d
+    type: content
 favicon: null
 collections:
   - index:

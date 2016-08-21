@@ -1,5 +1,30 @@
-title: Hierarchy of Info
-purpose: []
+typography_spectrum: 0.60845
+color:
+  saturation: 0.06055445433594286
+  brandStrength: 0.5
+  rhythmicContrast: 0.25
+  brandColors:
+    - '#ffffff'
+    - '#34b6d6'
+    - '#000000'
+    - '#2660aa'
+    - '#fe7e15'
+  lightness: 0
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.4551971
+analytics:
+  twitter: null
+  google: null
+  facebook: null
+name: hierarchyofinfo
+cta:
+  bucket: null
+  version: null
+  domain: null
+favicon: null
 collections:
   - index:
       path: /
@@ -12,30 +37,6 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
-color:
-  saturation: 0.06055445433594286
-  brandStrength: 0.5
-  rhythmicContrast: 0.25
-  brandColors:
-    - '#ffffff'
-    - '#34b6d6'
-    - '#000000'
-    - '#2660aa'
-    - '#fe7e15'
-  lightness: 0
-cta:
-  bucket: null
-  version: null
-  domain: null
-analytics:
-  twitter: null
-  google: null
-  facebook: null
-name: hierarchyofinfo
-favicon: null
-opengraph:
-  image: null
-  type: null
-  appId: null
-typography_spectrum: 0.60845
-layout_spectrum: 0.4551971
+title: Hierarchy of Info
+description: Nothing of Consequence
+purpose: []

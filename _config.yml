@@ -19,6 +19,8 @@ analytics:
   twitter: null
   google: null
   facebook: null
+author:
+  name: Kelly
 name: hierarchyofinfo
 cta:
   bucket: null
